@@ -11,3 +11,7 @@ Matrisin transpozunu (devriğini) almak, matrisin aynı numaralı satırları il
 
 
 
+
+![c1](https://user-images.githubusercontent.com/84642079/209920164-d9d237e2-73b8-4763-afcc-fb36cb71df11.png)
+
+
