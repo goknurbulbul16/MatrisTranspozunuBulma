@@ -7,11 +7,17 @@ Matrisin transpozunu (devriğini) almak, matrisin aynı numaralı satırları il
 Örneğin aşağıdaki 2x3’lik A matrisinin transpozu (devriği), 2x3’lük bir A^T matrisidir.
 
 
+
+![c1](https://user-images.githubusercontent.com/84642079/209920164-d9d237e2-73b8-4763-afcc-fb36cb71df11.png)
+
+
+
+
 ![c2](https://user-images.githubusercontent.com/84642079/209920030-de4c2c97-b701-48cb-a13d-b95bf9534b51.png)
 
 
 
 
-![c1](https://user-images.githubusercontent.com/84642079/209920164-d9d237e2-73b8-4763-afcc-fb36cb71df11.png)
+
 
 
